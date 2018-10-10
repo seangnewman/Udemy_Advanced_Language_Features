@@ -42,9 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Auto_Properties.cs" />
     <Compile Include="NullCoalescingOperator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Soft_Typecast.cs" />
+    <Compile Include="Useful_String_Methods.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

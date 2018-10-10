@@ -15,7 +15,7 @@ namespace AdvancedFeatures
             var testing = NullCoalescingOperator.Demo("Harvey Mudd");
             var intTest = NullCoalescingOperator.Demo(7);
             Console.WriteLine(testing);
-            Console.WriteLine(8);
+            Console.WriteLine(intTest);
              
         }
 

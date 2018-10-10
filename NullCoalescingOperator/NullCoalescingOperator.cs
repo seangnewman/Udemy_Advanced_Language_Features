@@ -15,8 +15,8 @@ namespace AdvancedFeatures
 
         public static int Demo(int? value)
         {
-            int? temp = null;
-            return temp ?? default(int);
+             
+            return value ?? default(int);
         }
     }
 }
