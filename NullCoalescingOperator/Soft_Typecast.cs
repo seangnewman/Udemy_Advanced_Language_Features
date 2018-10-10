@@ -25,7 +25,7 @@ namespace AdvancedFeatures
 
             foreach (object o in array)
             {
-                int? i = (o as int?;
+                int? i = (o as int?);
                Console.WriteLine("{0}: {1}", index++,   i ?? -1);
 
             }
