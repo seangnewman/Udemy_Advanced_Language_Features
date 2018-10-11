@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Auto_Properties.cs" />
+    <Compile Include="FibonacciSequence.cs" />
     <Compile Include="LINQ.cs" />
     <Compile Include="NullCoalescingOperator.cs" />
     <Compile Include="ObjectInitializers.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="Soft_Typecast.cs" />
     <Compile Include="Useful_String_Methods.cs" />
     <Compile Include="Using_Statement.cs" />
+    <Compile Include="yield_return.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
