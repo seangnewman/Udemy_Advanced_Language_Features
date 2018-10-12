@@ -43,9 +43,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Auto_Properties.cs" />
+    <Compile Include="Auto_Property.cs" />
+    <Compile Include="Await_in_Catch_Finally.cs" />
+    <Compile Include="Declaratopm_Expression.cs" />
+    <Compile Include="Expression_Bodied_Functions_Properties.cs" />
+    <Compile Include="Extension_Methods.cs" />
     <Compile Include="FibonacciSequence.cs" />
+    <Compile Include="Lambda_Expressions.cs" />
     <Compile Include="LINQ.cs" />
     <Compile Include="NullCoalescingOperator.cs" />
+    <Compile Include="Null_Conditional_Operator.cs" />
     <Compile Include="ObjectInitializers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
